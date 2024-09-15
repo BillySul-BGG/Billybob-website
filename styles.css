@@ -12,8 +12,6 @@
   src: url("/fonts/OpenSans-VariableFont_wdth,wght.ttf"); 
 } 
 
-
-
 img 
 {
     display: block;
@@ -44,9 +42,22 @@ p
   text-align: left;
   display:block;
   padding-right: 25%;
-  margin:auto;
+  margin:auto; 
+}
 
-  
+.fakeimg {
+  background-color: #363636;
+  width: 100%;
+  padding: 20px;
+}
+.card {
+  margin: auto;
+  display: block;
+  align-items: center;
+  border: 1px solid #363636;
+  padding: 50px;
+  margin-top: 20px;
+  max-width: 500px;
 }
 
 
