@@ -1,4 +1,19 @@
 
+
+
+@font-face 
+{ 
+  font-family:inter; 
+  src: url("/fonts/Inter-VariableFont_opsz,wght.ttf"); 
+} 
+@font-face 
+{ 
+  font-family:opensans; 
+  src: url("/fonts/OpenSans-VariableFont_wdth,wght.ttf"); 
+} 
+
+
+
 img 
 {
     display: block;
@@ -11,8 +26,28 @@ body
   background-color: #f5ecdc;
 }
 
-h1
+h2
 {
+  font-family:inter;
+  font-weight: 800;
+  color: rgb(29, 29, 29);
+  text-align: center;
   display: block;
   margin:auto;
 }
+
+p
+{
+  font-family:opensans;
+  font-weight: 100;
+  color: rgb(29, 29, 29);
+  text-align: left;
+  display:block;
+  padding-right: 25%;
+  margin:auto;
+
+  
+}
+
+
+
