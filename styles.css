@@ -36,8 +36,7 @@ a:visited
   padding-right: 5px;
   color: rgb(29, 29, 29);
 }
-
-h2
+h1
 {
   font-family:inter;
   font-weight: 800;
@@ -45,9 +44,9 @@ h2
   text-align: center;
   display: block;
   margin:auto;
-}
 
-h5
+}
+h2
 {
   font-family:inter;
   font-weight: 200;
@@ -55,8 +54,17 @@ h5
   text-align: center;
   display: block;
   margin:auto;
-  
 }
+h3
+{
+  font-family:inter;
+  font-weight: 200;
+  color: rgb(29, 29, 29);
+  text-align: center;
+  display: block;
+  margin:auto;
+}
+
 h4
 {
   font-family:inter;
@@ -67,6 +75,17 @@ h4
   margin:auto;
 
 }
+h5
+{
+  font-family:inter;
+  font-weight: 200;
+  color: rgb(29, 29, 29);
+  text-align: center;
+  display: block;
+  margin:auto;
+  
+}
+
 
 p
 {
