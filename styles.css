@@ -24,6 +24,19 @@ body
   background-color: #f5ecdc;
 }
 
+a:link
+{
+  padding-left: 5px;
+  padding-right: 5px;
+  color: rgb(29, 29, 29);
+}
+a:visited
+{
+  padding-left: 5px;
+  padding-right: 5px;
+  color: rgb(29, 29, 29);
+}
+
 h2
 {
   font-family:inter;
@@ -32,6 +45,27 @@ h2
   text-align: center;
   display: block;
   margin:auto;
+}
+
+h5
+{
+  font-family:inter;
+  font-weight: 200;
+  color: rgb(29, 29, 29);
+  text-align: center;
+  display: block;
+  margin:auto;
+  
+}
+h4
+{
+  font-family:inter;
+  font-weight: 200;
+  color: rgb(29, 29, 29);
+  text-align: left;
+  display: block;
+  margin:auto;
+
 }
 
 p
